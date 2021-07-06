@@ -1,6 +1,6 @@
 [kaleido-subs]
 title = "Kaleido-subs"
 url = "https://kaleido.kageru.moe/"
-entrySelector = ".card-body"
+entrySelector = ".card-text"
 titleSelector = ".card-title"
 linkSelector = ".card-title a"
