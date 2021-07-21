@@ -2,9 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kaleido.kageru.moe/</id>
     <title>Kaleido-subs</title>
-    <updated>2021-07-20T17:40:45.979Z</updated>
+    <updated>2021-07-21T05:32:47.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://kaleido.kageru.moe/static/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Summer 2021 announcements]]></title>
+        <id>https://kaleido.kageru.moe/post/summer-2021-announcements</id>
+        <link href="https://kaleido.kageru.moe/post/summer-2021-announcements"/>
+        <updated>2021-07-21T05:32:47.697Z</updated>
+        <content type="html"><![CDATA[<h5 class="card-title"><a href="/post/summer-2021-announcements">Summer 2021 announcements</a></h5>
+        <h6 class="card-subtitle mb-2 text-muted">Posted on July 20, 2021 by LightArrowsEXE</h6>
+        
+        <div class="card-text post-content">
+            <p><img alt="" src="/static/images/posts/summer2021.jpg" style="max-height: 400px;margin: 10px auto 20px; display: block"> </p>
+<p>Unfortunately, we're not planning on picking up any shows this season. Instead we'll be giving a status update on current projects, how they're going, and what our rough plans currently are. Please note that these are not final, and we may pick up dropped series or change our plans at any time based on staff discretion.</p>
+<p><strong>Seasonals:</strong><br></p>
+<ul>
+<li>Uzaki-chan: <em>Dropped</em><br></li>
+<li>Kumo desu ga: <em>On-hold, likely switching to BDs at a future date</em><br></li>
+<li>Yuru Camp 2: <em>Slowly progressing, likely to switch over to BDs post-ep4</em><br></li>
+</ul>
+<p><strong>Other:</strong><br></p>
+<ul>
+<li>Majo no Tabitabi: <em>BDs slowly in progress once other projects are finished @GJM. No batch planned for the time being.</em><br></li>
+<li>FGO Babylonia: <em>On-hold. Potentially seeing some staff changes in the future.</em><br></li>
+<li>Grand Carnival: <em>Waiting for episode 2 (Sept)</em><br></li>
+<li>Prisma Phantasm: <em>Progressing, high priority</em><br></li>
+<li>Granblue Fantasy 2: <em>All BDMVs finally available, slowly working on it inbetween other projects</em><br></li>
+<li>Higurashi: <em>Progressing, working on it as episodes (slowly) get encoded</em><br></li>
+<li>Joshiraku: <em>Progressing</em><br></li>
+<li>Tate no Yuusha: <em>Potentially dropped, not entirely sure yet</em><br></li>
+</ul>
+<p>And that's it for the time being! We'll try to keep you updated per-season, but you can always ask about projects in our <a href="https://discord.gg/dk7aadV">Discord server</a> (granted you aren't annoying about it, of course).</p>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fate Grand Carnival - 01]]></title>
         <id>https://kaleido.kageru.moe/post/fate-grand-carnival-01</id>
@@ -187,22 +218,6 @@ If you have playback issues, use <a href="https://mpv.io">mpv</a>.</em></p>
               padding-right: 10px
       }
 </style>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kumo Desu ga, Nani ka? (So I'm a Spider, So What?) - 03]]></title>
-        <id>https://kaleido.kageru.moe/post/kumo-desu-ga-nani-ka-so-i-m-a-spider-so-what-03</id>
-        <link href="https://kaleido.kageru.moe/post/kumo-desu-ga-nani-ka-so-i-m-a-spider-so-what-03"/>
-        <updated>2021-07-06T13:14:55.094Z</updated>
-        <content type="html"><![CDATA[<h5 class="card-title"><a href="/post/kumo-desu-ga-nani-ka-so-i-m-a-spider-so-what-03">Kumo Desu ga, Nani ka? (So I'm a Spider, So What?) - 03</a></h5>
-        <h6 class="card-subtitle mb-2 text-muted">Posted on March 13, 2021 by LightArrowsEXE</h6>
-        
-        <div class="card-text post-content">
-            <p><img alt="" src="/static/images/posts/kumodesu03_thumb.jpg" style="max-height: 400px;margin: 10px auto 20px; display: block"></p>
-<p>Pictured: people about to beat our ass for stalling.</p>
-<p><strong>Links:</strong> <a href="https://nyaa.si/download/1356886.torrent">Torrent</a> | <a href="magnet:?xt=urn:btih:c6815b71b2ef3fa1717048f9e4077b82eddb3b9e&amp;dn=%5BKaleido-subs%5D%20Kumo%20Desu%20ga%2C%20Nani%20ka%20%28So%20I%27m%20a%20Spider%2C%20So%20What%29%20-%2003%20%28WEB%201080p%29%20%5BFA571C17%5D&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce">Magnet</a><br>
-<em>Check out our <a href="https://discord.gg/dk7aadV">Discord server</a>!<br>
-If you have playback issues, use <a href="https://mpv.io">mpv</a>.</em></p>
         </div>]]></content>
     </entry>
 </feed>
