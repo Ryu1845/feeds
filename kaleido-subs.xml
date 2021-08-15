@@ -2,9 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kaleido.kageru.moe/</id>
     <title>Kaleido-subs</title>
-    <updated>2021-08-14T17:38:17.023Z</updated>
+    <updated>2021-08-15T05:32:39.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://kaleido.kageru.moe/static/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Yuru Camp 2 - 04]]></title>
+        <id>https://kaleido.kageru.moe/post/yuru-camp-2-04</id>
+        <link href="https://kaleido.kageru.moe/post/yuru-camp-2-04"/>
+        <updated>2021-08-15T05:32:38.004Z</updated>
+        <content type="html"><![CDATA[<h5 class="card-title"><a href="/post/yuru-camp-2-04">Yuru Camp 2 - 04</a></h5>
+        <h6 class="card-subtitle mb-2 text-muted">Posted on August 15, 2021 by LightArrowsEXE</h6>
+        
+        <div class="card-text post-content">
+            <p><img alt="" src="/static/images/posts/yurucamp2_04.jpg" style="max-height: 400px;margin: 10px auto 20px; display: block"> </p>
+<p>Better late than never, as they say.</p>
+<p>We’re switching to BD encodes starting next episode. Ep1-4 BD episodes will be included in the batch.</p>
+<p><strong>Links:</strong> <a href="https://nyaa.si/download/1421194.torrent">Torrent</a> | <a href="magnet:?xt=urn:btih:bc5718893ca3d8ab8867818bf6c4c082179ea3d2&amp;dn=%5BKaleido-subs%5D%20Yuru%20Camp%E2%96%B3%20Season%202%20%28Comfy%20Camp%29%20-%2004%20%28WEB%201080p%20EAC3%29%20%5BA291DDD3%5D&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce">Magnet</a><br><em>Check out our <a href="https://discord.gg/dk7aadV">Discord server</a>!<br>
+If you have playback issues, use <a href="https://mpv.io">mpv</a>.</em></p>
+        </div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Summer 2021 announcements]]></title>
         <id>https://kaleido.kageru.moe/post/summer-2021-announcements</id>
@@ -178,46 +194,6 @@ If you have playback issues, use <a href="https://mpv.io">mpv</a>.</em></p>
 <p><strong>Links:</strong> <a href="https://nyaa.si/download/1365606.torrent">Torrent</a> | <a href="magnet:?xt=urn:btih:c5ae70b016c43f36cb080e817d39e84c7b0fa4b9&amp;dn=%5BGJM-Kaleido%5D%20Majo%20no%20Tabitabi%20~The%20Journey%20of%20Elaina~%20-%2012%20%5B497BEA48%5D.mkv&amp;tr=http%3A%2F%2Fnyaa.tracker.wf%3A7777%2Fannounce&amp;tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&amp;tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&amp;tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce">Magnet</a><br>
 <em>Check out our <a href="https://discord.gg/dk7aadV">Discord server</a>! <br>
 If you have playback issues, use <a href="https://mpv.io">mpv</a>.</em></p>
-        </div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spring 2021 Plans & Backlog updates]]></title>
-        <id>https://kaleido.kageru.moe/post/spring-2021-plans-backlog-updates</id>
-        <link href="https://kaleido.kageru.moe/post/spring-2021-plans-backlog-updates"/>
-        <updated>2021-07-06T13:14:55.093Z</updated>
-        <content type="html"><![CDATA[<h5 class="card-title"><a href="/post/spring-2021-plans-backlog-updates">Spring 2021 Plans &amp; Backlog updates</a></h5>
-        <h6 class="card-subtitle mb-2 text-muted">Posted on March 29, 2021 by LightArrowsEXE</h6>
-        
-        <div class="card-text post-content">
-            <p><img alt="" src="/static/images/posts/twewy_announce.jpg" style="max-height: 400px;margin: 10px auto 20px; display: block"></p>
-<p>Hey guys, here are our Spring 2021 plans!</p>
-<p>We'll be picking up a new show; <a href="https://anidb.net/anime/15609">The World Ends With You</a>. This will be handled by a team that's relatively new to fansubbing, but will be overseen by some more senior fansubbers, so I have high hopes for the end result. This project will not interfere with any other ones.<br></p>
-<p><strong style="font-size: 20px;">Staff</strong><br></p>
-<div class="staff">
-<p><strong>Translation:</strong> Simulcast (Dialogue), RoflWaffles (Songs)<br>
-<strong>Translation Check:</strong> RoflWaffles<br>
-<strong>Editing:</strong> IllidanStormrage<br>
-<strong>Encoding:</strong> LightArrowsEXE<br>
-<strong>Timing:</strong> LafferStyle<br>
-<strong>Song Styling:</strong> LightArrowsEXE<br>
-<strong>Typesetting:</strong> LightArrowsEXE, rikunandakedo<br>
-<strong>Quality Control:</strong> Lolita, LightArrowsEXE<br></p>
-</div>
-<p>Kumo desu ga and Yuru Camp 2 are still in the works, and we have no intentions of dropping them (or anything else so far). As for backlog projects, this season I (Light) plan on focusing on the following Kaleido projects:<br></p>
-<ul>
-<li><strong>Majo no Tabitabi</strong> <del>Ep12 &amp;</del> Blu-rays<br></li>
-<li><strong>Uzaki-chan wa Asobitai!</strong> Blu-rays <br></li>
-<li><strong>Joshiraku</strong> Blu-rays (Up to Vol.5 minimum)<br></li>
-<li><del><strong>Kimetsu no Yaiba</strong> Blu-ray batch</del><br></li>
-</ul>
-<p>There is also a chance of some unannounced projects popping up in the mean time, so if that happens, I hope you guys will enjoy those.</p>
-<style type="text/css">
-      .staff {
-          font-size: 15px;
-              margin-left: 20px;
-              padding-right: 10px
-      }
-</style>
         </div>]]></content>
     </entry>
 </feed>
